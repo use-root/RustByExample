@@ -5,5 +5,5 @@ macro_rules! sayhello {
 }
 
 fn main(){
-    sayhello!("Eze")
+    sayhello!("user")
 }
